@@ -1,8 +1,10 @@
 # 👋 This is igraphicsz 
 
-Why using this name? because my dream wa to be a photogrpher(still working on it).
+Why using this name? because my dream was to be a photogrpher(still working on it). 
 
-I work on computer version, AI and tools and skill that makes AI works better.
+I love anime, games and topics in CS.
+
+I mainly work on computer version, AI and tools and skill that makes AI works better.
 
 ## 📫 Connect
 
