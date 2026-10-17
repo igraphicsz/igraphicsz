@@ -1,5 +1,7 @@
 # 👋 This is igraphicsz 
 
+Developer in training. Always learning. Maker of tiny internet junk.
+
 Why using this name? because my dream was to be a photogrpher(still working on it). 
 
 I love anime, games and topics in CS.
